@@ -1,0 +1,10 @@
+.text {
+  font-family: 'Roboto',sans-serif;
+  font-style: normal;
+  font-weight: 500;
+}
+.title {
+  font-family: 'PT serif',serif;
+  font-style: normal;
+  font-weight: bold;
+}
